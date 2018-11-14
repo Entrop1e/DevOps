@@ -36,6 +36,10 @@ public class Guru99Test {
     	assertTrue(homePage.checkMangerId(id), "check correct mangerId");
     }
 
-    // Ceci est un commmentaire supprimé
+    
+
+    /********************************
+     * Ceci est un commentaire ajouté
+     * *******************************/
 
 }
